@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Meetings
 
-#Discord:
+# Discord:
 
 -Sundays at 7pm
 
