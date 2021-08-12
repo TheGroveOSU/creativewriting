@@ -2,21 +2,16 @@
 
 Welcome to The Grove! We're a community of undergraduate and graduate students at OSU who love to write (creatively). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Meetings
 
-## Discord:
+# Discord:
 
--Sundays at 7pm
+_Sundays at 7pm_
 
--Wednesdays at 3pm
+_Wednesdays at 3pm_
 
-## In-Person:
+# In-Person:
 
-# Header 1
-## Header 2
-### Header 3
 
 1. Numbered
 2. List
