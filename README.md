@@ -1,16 +1,16 @@
 ## The Grove: A Creative Writing Community
 
-Welcome to The Grove! We're a community of undergraduate and graduate students at OSU who love to write (creatively). 
+_Welcome to The Grove! We're a community of undergraduate and graduate students at OSU who love to write (creatively)._ 
 
-### Meetings
+# Meetings
 
-# Discord:
+### Discord:
 
-_Sundays at 7pm_
+Sundays at 7pm
 
-_Wednesdays at 3pm_
+Wednesdays at 3pm
 
-# In-Person:
+### In-Person:
 
 
 1. Numbered
