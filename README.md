@@ -1,6 +1,6 @@
 ## The Grove: A Creative Writing Community
 
-You can use the [editor on GitHub](https://github.com/TheGroveOSU/creativewriting/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to The Grove! We're a community of undergraduate and graduate students at OSU who love to write (creatively). 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
