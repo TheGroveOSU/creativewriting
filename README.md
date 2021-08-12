@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## The Grove: A Creative Writing Community
 
 You can use the [editor on GitHub](https://github.com/TheGroveOSU/creativewriting/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
