@@ -15,3 +15,5 @@ Wednesdays at 7pm
 TBD
 
 ### Support or Contact
+
+thegroveosu@gmail.com
