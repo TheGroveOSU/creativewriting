@@ -6,9 +6,9 @@ _Welcome to The Grove! We're a community of undergraduate and graduate students 
 
 ### Discord:
 
-Sundays at 7pm
+Sundays at 3pm
 
-Wednesdays at 3pm
+Wednesdays at 7pm
 
 ### In-Person:
 
