@@ -6,14 +6,12 @@ _Welcome to The Grove! We're a community of undergraduate and graduate students 
 
 ### Discord:
 
-Sundays at 3pm
-
 Wednesdays at 7pm
 
 ### In-Person:
 
-TBD
+Sundays at 3pm
 
 ### Support or Contact
 
-thegroveosu@gmail.com
+To be added to the server or the listserv please contact thegroveosu@gmail.com
